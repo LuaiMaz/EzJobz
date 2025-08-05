@@ -1,0 +1,2 @@
+# EzJobz-
+AI Job Tracker
