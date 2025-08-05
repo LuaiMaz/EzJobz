@@ -1,2 +1,2 @@
-# EzJobz-
+# EzJobz
 AI Job Tracker
